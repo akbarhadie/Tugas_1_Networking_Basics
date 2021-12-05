@@ -1,0 +1,15 @@
+Tugas 2
+
+Silahkan jawab pertanyaan-pertanyaan berikut :
+1 Oktet pertama yang diawali dengan 128 hingga 191 adalah merupakan pembagian kelas ?
+2 Subnet Mask dari CIDR /28 adalah ?
+3 IP Address 127.0.0.1 merupakan bentuk dari ?
+4 CIDR dari Subnet Mask 255.255.0.0 adalah ?
+5 Bagaimana penulisan Subnet Mask dari 192.168.20.20/22 ?
+
+1.Class B
+2.255.255.255.240
+3.localhost
+4.CIDR/16
+5. Decimal = 255.255.252.0
+   Binary = 11111111 11111111 11111100 00000000
